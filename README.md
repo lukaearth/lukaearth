@@ -45,8 +45,9 @@ open for work, contact: hello@luka.earth
 
 <div align="center">
   # my recent projects
+  <div>
 1. <a href="https://github.com">charonswap</a>
-  
+  </div>
 </div>
 <!--
 **lukaearth/lukaearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
