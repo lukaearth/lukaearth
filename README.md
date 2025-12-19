@@ -2,7 +2,7 @@
 
 # luka.earth
 
-**self-taught web3 engineer** 
+**full-stack web3 engineer** 
 
 i'm luka, a self-taught web3 engineer specializing in smart contract security and ui/ux design. focusing on building something correct, instead of something quick.
 
