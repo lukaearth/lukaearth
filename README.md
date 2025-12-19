@@ -45,9 +45,16 @@ open for work, contact: hello@luka.earth
 # my recent projects
 
 <div align="center">
-1. <a href="https://github.com">charonswap</a>
+
+**🔥 [CharonSwap](https://github.com/lukaearth/CharonSwap)**  
+an experimental full-stack web3 DeFi application deployed on Sepolia testnet.
+
+ **built with:** Solidity • Foundry • Next.js • Viem • wagmi • RainbowKit • Tailwind CSS  
+
+ **live demo:** soon
 
 </div>
+
 <!--
 **lukaearth/lukaearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
