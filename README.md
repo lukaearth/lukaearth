@@ -16,7 +16,7 @@ open for work, contact: hello@luka.earth
 
 <div align="center">
 
-### my skillstack
+# my skillstack
 
 
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
@@ -42,9 +42,13 @@ open for work, contact: hello@luka.earth
 
 </div>
 
+</br>
 <br>
-
-
+<div>
+  # my recent projects
+1. <a href="https://github.com">charonswap</a>
+  
+</div>
 <!--
 **lukaearth/lukaearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
