@@ -42,7 +42,7 @@ open for work, contact: hello@luka.earth
 
 </div>
 
-### my recent projects
+# my recent projects
 
 <div align="center">
 1. <a href="https://github.com">charonswap</a>
