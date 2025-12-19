@@ -1,4 +1,6 @@
-## Hi there 👋
+**lukaearth**
+
+i am luka, a self-taught web3 engineer with particular interest in smart contract security and ui/ux design.
 
 <!--
 **lukaearth/lukaearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
