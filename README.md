@@ -46,7 +46,7 @@ open for work, contact: hello@luka.earth
 
 <div align="center">
 
-**[CharonSwap](https://github.com/lukaearth/CharonSwap)**  
+***[CharonSwap](https://github.com/lukaearth/CharonSwap)***
 an experimental full-stack web3 DeFi application deployed on Sepolia testnet.
 
  **built with:** Solidity • Foundry • Next.js • Viem • wagmi • RainbowKit • Tailwind CSS  
