@@ -1,6 +1,6 @@
 <div align="center">
 
-# lukaearth
+# luka.earth
 
 **self-taught web3 engineer** 
 
