@@ -14,9 +14,10 @@ open for work, contact: hello@luka.earth
 
 <br>
 
-### 🛠️ Skills & Expertise
-
 <div align="center">
+
+### my skillstack
+
 
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
 <img src="https://img.shields.io/badge/Foundry-1E1E1E?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
