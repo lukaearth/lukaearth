@@ -43,9 +43,9 @@ open for work, contact: hello@luka.earth
 </div>
 
 </br>
+  ### my recent projects
 <br>
 <div align="center">
-  ### my recent projects
 1. <a href="https://github.com">charonswap</a>
   
 </div>
