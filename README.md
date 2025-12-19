@@ -41,9 +41,9 @@ open for work, contact: hello@luka.earth
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
-<div align="center">
+
 # my recent projects
-</div>
+
 <div align="center">
 1. <a href="https://github.com">charonswap</a>
 
