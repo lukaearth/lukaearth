@@ -5,17 +5,17 @@
 
 ---
 
-<p align="center">
+<p align="">
   i'm luka, a self-taught web3 engineer specializing in smart contract security and ui/ux design.<br/>
   focusing on building something correct, instead of something quick.
 </p>
 
-<p align="center">
+<p align="">
   currently working on freelance projects to ascend my portfolio.<br/>
   always learning.
 </p>
 
-<p align="center">
+<p align="">
   <strong>open for work</strong> — contact: <a href="mailto:hello@luka.earth">hello@luka.earth</a>
 </p>
 
