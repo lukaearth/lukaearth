@@ -18,6 +18,7 @@
 </p>
 
 <p align="">
+    <br/>
   <strong>open for work</strong> — contact: <a href="mailto:hello@luka.earth">hello@luka.earth</a>
 </p>
 
