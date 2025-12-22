@@ -12,7 +12,7 @@
 </p>
 
 <p align="">
-  i have worked on full-stack applications, backend services, and blockchain-based systems, with particular interest in execution flow, state management, and failure modes.<br/>
+  i have worked on full-stack applications, backend services, and blockchain-based systems, with particular interest in execution flow, state management, and failure modes.
     <br/>
 </p>
 <p align="">
