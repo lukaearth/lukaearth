@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/App_Router_(SSR/ISR)-111827?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS_Grid_&_Flexbox-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### backend & data
