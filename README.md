@@ -52,7 +52,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API_Design-4A5568?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Auth_(JWT/Sessions)-0B7285?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Error_Handling-6B7280?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
