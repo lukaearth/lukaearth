@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Railway/Render-5B21B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker_(Basics)-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD_Fundamentals-0A0A0A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Domain_&_DNS-374151?style=for-the-badge"/>
 </p>
