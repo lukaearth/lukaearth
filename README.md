@@ -92,6 +92,25 @@
 
 ## recent projects
 
+### [Postaaja](https://github.com/lukaearth/postaaja)
+
+an early full-stack SaaS project built in 2025, focused on personalized AI-powered sales content generation via Telegram.
+
+the project explored:
+- end-to-end SaaS architecture (frontend → backend → AI)
+- fine-tuned language models for tone preservation
+- structured input validation and prompt design
+- usage limits, rate control, and basic persistence
+- real-world product constraints and go-to-market experimentation
+
+**stack:**  
+React • Python • Telegram Bot API • OpenAI API • SQLite
+
+**status:** archived (early-stage project)  
+**note:** one of my first serious production-oriented builds
+
+---
+
 ### [CharonSwap](https://github.com/lukaearth/CharonSwap)
 
 an experimental full-stack exchange application with strict correctness constraints and adversarial input considerations.
