@@ -107,7 +107,7 @@ the project explored:
 React • Python • Telegram Bot API • OpenAI API • SQLite
 
 **status:** archived (early-stage project)  
-**website:** https://postaaja.com
+**website:** https://postaaja.com  
 **note:** one of my first serious production-oriented builds
 
 ---
