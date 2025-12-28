@@ -127,4 +127,4 @@ the project explores:
 Solidity • Foundry • Next.js • Viem • wagmi • RainbowKit • Tailwind CSS
 
 **status:** testnet deployment (Sepolia)  
-**live demo:** coming soon
+**live demo:** <a href="https://joyful-cannoli-d20253.netlify.app/" target="_blank">CharonSwap</a> (note: you need sepolia eth in your wallet to claim feth/chr)
