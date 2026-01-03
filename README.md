@@ -9,6 +9,8 @@
   i'm luka, a self-taught junior software engineer with experience across frontend, backend, and correctness-critical systems.<br/>
 
   my focus is on building software that is understandable, testable, and correct under real-world conditions.
+
+  i post all my work, from old to recent on github to clearly be able to follow my development and learning.
 </p>
 
 <p align="">
