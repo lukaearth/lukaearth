@@ -10,7 +10,7 @@
 
   my focus is on building software that is understandable, testable, and correct under real-world conditions.
 
-  i post all my work, from old to recent on github to clearly be able to follow my development and learning.
+  i post all my work, from old to recent, on github to clearly be able to follow my development and learning.
 </p>
 
 <p align="">
