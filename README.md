@@ -6,7 +6,7 @@
 ---
 
 <p align="">
-  i'm luka, a self-taught software engineer with experience across frontend, backend, and correctness-critical systems.<br/>
+  i'm luka, a self-taught full-stack engineer with experience across frontend, backend, and correctness-critical systems.<br/>
 
   my focus is on building software that is understandable, testable, and correct under real-world conditions.
 
