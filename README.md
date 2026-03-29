@@ -115,6 +115,24 @@ React • Python • Telegram Bot API • OpenAI API • SQLite
 
 ---
 
+### [Lyodit](https://github.com/lukaearth/Lyodit)
+
+a full-stack smart contract security platform designed to bridge the gap between complex CLI audit tooling and a seamless, web-based user experience.
+
+the project explores:
+- multi-tool orchestration (Slither, Aderyn, Halmos, and Solhint)
+- security-as-a-product: gating automated scans behind Supabase Auth
+- crypto payments: end-to-end integration with NOWPayments for invoice-style flows
+- hybrid backend architecture: Next.js API routes coupled with a Rust-based core engine
+- product constraints: managing isolated execution environments and resource timeouts
+
+**stack:** Next.js • TypeScript • Rust • Supabase • Solidity • Foundry • Tailwind CSS
+
+**status:** portfolio project (functional prototype)  
+**note:** a deep dive into EVM security tooling, system integration, and shipping production-ready SaaS features.
+
+---
+
 ### [CharonSwap](https://github.com/lukaearth/CharonSwap)
 
 an experimental full-stack exchange application with strict correctness constraints and adversarial input considerations.
