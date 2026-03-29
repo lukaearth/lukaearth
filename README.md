@@ -94,6 +94,24 @@
 
 ## recent projects
 
+### [Lyodit](https://github.com/lukaearth/Lyodit)
+
+a full-stack smart contract security platform designed to bridge the gap between complex CLI audit tooling and a seamless, web-based user experience.
+
+the project explores:
+- multi-tool orchestration (Slither, Aderyn, Halmos, and Solhint)
+- security-as-a-product: gating automated scans behind Supabase Auth
+- crypto payments: end-to-end integration with NOWPayments for invoice-style flows
+- hybrid backend architecture: Next.js API routes coupled with a Rust-based core engine
+- product constraints: managing isolated execution environments and resource timeouts
+
+**stack:** Next.js • TypeScript • Rust • Supabase • Solidity • Foundry • Tailwind CSS
+
+**status:** portfolio project (functional prototype)  
+**note:** a deep dive into EVM security tooling, system integration, and shipping production-ready SaaS features.
+
+---
+
 ### [Postaaja](https://github.com/lukaearth/postaaja)
 
 an early full-stack SaaS project built in 2025, focused on personalized AI-powered sales content generation via Telegram.
@@ -112,24 +130,6 @@ React • Python • Telegram Bot API • OpenAI API • SQLite
 **website:** <a href="https://postaaja.com" target="_blank">https://postaaja.com</a>
   
 **note:** one of my first serious production-oriented builds
-
----
-
-### [Lyodit](https://github.com/lukaearth/Lyodit)
-
-a full-stack smart contract security platform designed to bridge the gap between complex CLI audit tooling and a seamless, web-based user experience.
-
-the project explores:
-- multi-tool orchestration (Slither, Aderyn, Halmos, and Solhint)
-- security-as-a-product: gating automated scans behind Supabase Auth
-- crypto payments: end-to-end integration with NOWPayments for invoice-style flows
-- hybrid backend architecture: Next.js API routes coupled with a Rust-based core engine
-- product constraints: managing isolated execution environments and resource timeouts
-
-**stack:** Next.js • TypeScript • Rust • Supabase • Solidity • Foundry • Tailwind CSS
-
-**status:** portfolio project (functional prototype)  
-**note:** a deep dive into EVM security tooling, system integration, and shipping production-ready SaaS features.
 
 ---
 
