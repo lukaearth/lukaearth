@@ -107,10 +107,11 @@ the project explores:
 
 **stack:** Next.js • TypeScript • Rust • Supabase • Solidity • Foundry • Tailwind CSS
 
-**status:** portfolio project (functional prototype)  
+**status:** archived (early-stage project)  
+**website:** <a href="https://lyodit.vercel.app" target="_blank">lyodit.vercel.app</a>
+
 **note:** a deep dive into EVM security tooling, system integration, and shipping production-ready SaaS features.
 
-**website:** <a href="https://lyodit.vercel.app" target="_blank">lyodit.vercel.app</a>
 ---
 
 ### [Postaaja](https://github.com/lukaearth/postaaja)
