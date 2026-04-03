@@ -110,6 +110,7 @@ the project explores:
 **status:** portfolio project (functional prototype)  
 **note:** a deep dive into EVM security tooling, system integration, and shipping production-ready SaaS features.
 
+**website:** <a href="https://lyodit.vercel.app" target="_blank">lyodit.vercel.app</a>
 ---
 
 ### [Postaaja](https://github.com/lukaearth/postaaja)
